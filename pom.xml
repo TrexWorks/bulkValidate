@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.bulkUpload</groupId>
-	<artifactId>bulk-upload-service</artifactId>
+	<artifactId>bulkValidate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bulk-upload-service</name>
 	<description>Project for Bulk Upload</description>
